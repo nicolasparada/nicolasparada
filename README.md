@@ -1,6 +1,6 @@
-My name is Nicolás. I'm a Golang Developer. I’m currently working on [nakama](https://github.com/nicolasparada/nakama).
+I'm a Golang Developer from Chile. I’m currently spending time on [nakama](https://github.com/nicolasparada/nakama).
 <br>
-Ex- [@netdata](https://github.com/netdata). Currently looking for a new job.
+Ex- [@netdata](https://github.com/netdata). Currently looking for a new remote job.
 <br>
 My preferred stack is [Golang](https://golang.org/), [CockroachDB](https://www.cockroachlabs.com/) and [NATS](http://nats.io/).
 Fan of tool-less front-end, aka plain vanilla JS.
