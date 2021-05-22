@@ -1,7 +1,6 @@
-I'm a Golang Developer from Chile. I’m currently spending time on [nakama](https://github.com/nicolasparada/nakama).
-<br>
-Ex- [@netdata](https://github.com/netdata). Currently looking for a new remote job.
-<br>
+I'm a Golang Developer from Chile.<br>
+Currently working at [Calyptia](https://github.com/calyptia) maintaining [Fluent Bit](https://github.com/fluent/fluent-bit).<br>
+Spending my free time at [nakama](https://github.com/nicolasparada/nakama).<br>
 My preferred stack is [Golang](https://golang.org/), [CockroachDB](https://www.cockroachlabs.com/) and [NATS](http://nats.io/).
 Fan of tool-less front-end, aka plain vanilla JS.
 
