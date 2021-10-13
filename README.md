@@ -1,5 +1,7 @@
-I'm a Golang Developer from Chile.<br>
-Currently working at [Calyptia](https://github.com/calyptia) maintaining [Fluent Bit](https://github.com/fluent/fluent-bit).<br>
+Creator of [nakama.social](https://nakama.social).<br>
+Golang Developer from Chile.<br>
+
+Currently working at [Calyptia](https://github.com/calyptia).<br>
 Spending my free time at [nakama](https://github.com/nicolasparada/nakama).<br>
 My preferred stack is [Golang](https://golang.org/), [CockroachDB](https://www.cockroachlabs.com/) and [NATS](http://nats.io/).
 Fan of tool-less front-end, aka plain vanilla JS.
