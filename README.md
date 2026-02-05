@@ -1,7 +1,7 @@
 Creator of [nakama.social](https://nakama.social).<br>
 Software Engineer from Chile.<br>
 
-Currently working at [TelemetryForge](https://github.com/telemetryforge).<br>
+Currently working at [Garnet](https://github.com/garnet-org).<br>
 Spending my free time at [nakama](https://github.com/nicolasparada/nakama).<br>
 My preferred stack is [Golang](https://golang.org/), [CockroachDB](https://www.cockroachlabs.com/) and [NATS](http://nats.io/).
 Fan of tool-less front-end, aka good ol' server-side templates with plain vanilla JS or perhaps some [HTMX](https://htmx.org).
